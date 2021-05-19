@@ -2,7 +2,7 @@
 title: first
 date: 2021-05-17 13:40:03
 tags:
-- first
+- python
 ---
 
 第一次尝试哦 请多多指教
